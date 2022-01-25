@@ -1,10 +1,17 @@
 
+# Olá, Eu sou o Henrique José Jacinto ! 👋
 
-# Olá, eu sou o Henrique José Jacinto ! 👋
+
+
+
 ## 🚀 Sobre mim
-Eu sou um  desenvolvedor Web full-stack júnior .Fascinado por tecnologia de desenvolvimento web .Formado em analise e  desenvolvimento
-de sistemas
+Iniciante em   desenvolvedor Web full-stack júnior. Fascinado por tecnologia e desenvolvimento web.Sou formado em analise e  desenvolvimento
+de sistemas.Gosto de aprender  e conhecer  novas tecnologias .
+
+
 
 
 ## 🛠 Habilidades
-HTML, CSS........Estudando javascript ..
+HTML, CSS,e estudando javascript ..
+
+ 
